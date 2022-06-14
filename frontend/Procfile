@@ -1,1 +1,1 @@
-web: node src/ serve --port 8081
+web: node serve --port 8081

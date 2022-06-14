@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 import { map, startWith } from 'rxjs/operators';
 import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
 
-import { CanPopupComponent} from './can-popup/can-popup (2)';
+import { CanPopupComponent} from './can-popup/can-popup ';
 
 
 export interface DialogData {
